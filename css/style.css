@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,400,500&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT:400,700&display=swap');
+body{
+	width: 1135px;
+	height: 6851.71px;
+}
+.portada{
+	background-image: url(../images/montaña.jpg);
+	height: 292.359px;
+}
+.letrabarra{
+	font-size: 12px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 500;
+
+}
+.cuadro{
+	width: 302.66px;
+	height: 302.66px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.escrito{
+	width: 666.83px;
+	height: 5509..31px;
+}
+.titulo1{
+	font-size: 13px;
+	font-family: "Lora", serif;
+	color: #8d6e63;
+	text-align: center;
+}
+.titulo2{
+	font-size: 24px;
+	font-family: 'Old Standard TT', serif;
+	font-weight: 700;
+	color: #888888;
+	text-align: center;
+	margin: 0;
+}
+.titulo3{
+	font-size: inherit;
+	font-family: "Lora", serif;
+	font-weight: 400;
+	color: #888888;
+	text-align: center;
+
+}
+.parrafo{
+	font-size: 14px;
+	font-family: "Lora", serif;
+	font-weight: 400;
+	line-height: 1.8;
+}
+.boton{
+	font-family: 'Old Standard TT', serif;
+	font-size: 12px;
+	font-weight: 700;
+	background-color: #8d6e63;
+	color: #fff;
+	border: #8d6e63;
+	margin: 8px;
+
+}
+.pagina{
+	text-align: center;
+}
+.letrapagina{
+	font-family: 'Old Standard TT', serif;
+	font-size: 11px;
+	font-weight: 700;
+	color: #888888;
+	margin: 0 3px 40px;
+}
+.rollocorte{
+	width: 1135px;
+	height: 126.09px;
+	margin: 0;
+	padding: 0;
+}
+.imgcorte{
+	width: 126.09px;
+	height: 126.09px;
+}
+.cortecl{
+	padding:0;
+}
+.subcrip{
+	height: 259px;
+	margin-left: 61.5px;
+	margin-right: 61.5px;
+}
+.titulosub{
+	font-family: 'Old Standard TT', serif;
+	font-size: 32px;
+	text-align: center;
+	font-weight: 700;
+}
+.infosub{
+	font-size: 18px;
+	font-family: "Lora", serif;
+	text-align: center;
+}
+.letrabtn{
+	font-family: 'Old Standard TT', serif;
+	font-size: 14px;
+	text-align: center;
+	font-weight: 700;
+}
